@@ -23,6 +23,21 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h6 {
+    position: relative;
+    bottom: 20px;
+    width: 180px;
+    padding: 15px;
+    margin-bottom: 0;
+    /* font-weight: 50; */
+    /* line-height: 30px; */
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+
+
     .bg {
       background-image: url(assets/images/full-bloom.png);
       height: 100%;
